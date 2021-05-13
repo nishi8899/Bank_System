@@ -6,7 +6,7 @@ const dotenv = require('dotenv').config()
 const app = express()
 
 try {
-  mongoose.connect("mongodb://localhost:27017/bankuser", {
+  mongoose.connect(process.env.MONGO_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
