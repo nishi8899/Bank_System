@@ -208,7 +208,7 @@ th {
 
 .transaction:nth-child(odd),
 .customer:nth-child(odd) {
-  background-color: #9DC88D;
+   background-color: rgba(157,200,141 ,0.5);
 }
 
 .customer:hover {
