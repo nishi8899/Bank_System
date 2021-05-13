@@ -57,7 +57,7 @@ body {
 }
 
 .Home {
-  background-color: rgba(157,200,141 ,0.5); /* Green background with 30% opacity */
+  background-color: rgba(157,200,141 ,0.3); /* Green background with 30% opacity */
   margin: 4rem;
   padding: 2rem 4rem;
 }
