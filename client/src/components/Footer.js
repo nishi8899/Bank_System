@@ -10,7 +10,7 @@ const Footer = () => {
   return (
     <footer>
       
-      <p  style="text-align:center;" className='copyright'>Spark Bank Copyright &copy; {getYr()}</p>
+      <p  className='copyright'>Spark Bank Copyright &copy; {getYr()}</p>
       
     </footer>
   )
