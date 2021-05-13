@@ -239,6 +239,9 @@ footer {
   padding: 1rem;
   text-align: center;
 }
+.copyright{
+  margin-left: 40%;
+}
 
 @media (max-width: 768px) {
   html {
